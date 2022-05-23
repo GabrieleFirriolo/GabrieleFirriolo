@@ -1,6 +1,6 @@
 # Hi, I'm Gabriele 👨🏻‍💻
 
-I'm a 18 y/o beginner software developer and student. I am mainly interested in web development and mobile development.
+I'm a 18 y/o beginner software developer and student. I am mainly interested in web development and mobile development.‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎
 I'm also interested in Bot Development and Web Scraping.
 
 
