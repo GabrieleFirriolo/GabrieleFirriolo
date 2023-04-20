@@ -102,7 +102,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/GabrieleFirriolo"><img alt="Gabriele's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=GabrieleFirriolo%20Firriolo's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/GabrieleFirriolo"><img alt="Gabriele's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GabrieleFirriolo&custom_title=GabrieleFirriolo%20Firriolo's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -113,7 +113,7 @@
 <p align="center">
 	<a href="mailto:gabrifirr@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/GabrieleFirriolo"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://twitter.com/HideInAutism"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://twitter.com/HideInAutism"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a>
 	<a href="https://instagram.com/gabriele_firriolo"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	
 </p>
