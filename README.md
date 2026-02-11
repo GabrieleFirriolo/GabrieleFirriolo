@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Innovator+%26+Problem+Solver;Always+learning+new+things&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Engineer;AI+%26+ML+Enthusiast;Innovator+%26+Problem+Solver;Always+learning+new+things&center=true&width=500&height=50">
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 
 <h4 align="center">
 🎓 I’m a Computer Science graduate from UniMi, Italy.  
-💻 Currently working as a <b>Full Stack Developer</b> and contributing to exciting <b>AI/ML projects</b>.  
+💻 Currently working as a <b>Full Stack Engineer</b> and contributing to exciting <b>AI/ML projects</b>.  
 🚀 I’m passionate about building scalable applications, experimenting with new technologies, and creating impactful digital solutions.  
 🌱 I love connecting with people, exchanging ideas, and spreading knowledge and positivity.
 </h4>
